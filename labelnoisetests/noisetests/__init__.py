@@ -1,0 +1,2 @@
+from .nonparametrictest import nonparametric_test
+from .parametrictest import parametric_test
